@@ -1,0 +1,7 @@
+comparison,mean A,mean B,difference,t_stat,p_value,significant,winner
+Instagram vs Facebook,0.0798,0.0799,-0.0001,-0.5047,0.6138,No,Facebook
+Instagram vs Pinterest,0.0798,0.08,-0.0003,-1.3264,0.1847,No,Pinterest
+Instagram vs Twitter,0.0798,0.0804,-0.0006,-2.8538,0.0043,Yes,Twitter
+Facebook vs Pinterest,0.0799,0.08,-0.0002,-0.8237,0.4101,No,Pinterest
+Facebook vs Twitter,0.0799,0.0804,-0.0005,-2.3555,0.0185,Yes,Twitter
+Pinterest vs Twitter,0.08,0.0804,-0.0003,-1.5325,0.1254,No,Twitter
